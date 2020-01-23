@@ -30,6 +30,7 @@ public class JavaApplication4 {
       System.out.println();
       System.out.println(" LinkedList Elements");
       System.out.print("\t" + l1);
+      System.out.println("kamal");
    
         // TODO code application logic here
     }
